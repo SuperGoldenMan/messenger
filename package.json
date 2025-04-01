@@ -12,7 +12,10 @@
   "dependencies": {
     "body-parser": "^2.2.0",
     "bootstrap": "^5.3.3",
+    "dotenv": "^16.4.7",
     "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.1",
     "socket.io": "^4.8.1"
   }
 }
